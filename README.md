@@ -71,4 +71,4 @@ Encapsulation using private fields and getters.
 Building a complete console-based application.
 
 📝 Author
-Adb elrahman Osmat 
+Abd elrahman Osmat 
